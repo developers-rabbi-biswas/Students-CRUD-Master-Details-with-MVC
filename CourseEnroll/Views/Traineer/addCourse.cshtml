@@ -1,0 +1,9 @@
+﻿@model CourseEnroll.Models.Course
+<div>
+    <div>
+        @Html.DropDownListFor(x => x.CourseId, ViewBag.Course as SelectList, "---SelectList---")
+    </div>
+    <div>
+        <a href="#" id="btnDeleteCourse" class="btn btn-danger">Remove</a>
+    </div>
+</div>

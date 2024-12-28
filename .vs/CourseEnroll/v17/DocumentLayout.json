@@ -1,0 +1,204 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Job Practise\\MVC\\CourseEnroll\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1476FF-A748-4420-9228-1F44D7395A47}|CourseEnroll\\CourseEnroll.csproj|E:\\Job Practise\\MVC\\CourseEnroll\\courseenroll\\controllers\\traineercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F1476FF-A748-4420-9228-1F44D7395A47}|CourseEnroll\\CourseEnroll.csproj|solutionrelative:courseenroll\\controllers\\traineercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1476FF-A748-4420-9228-1F44D7395A47}|CourseEnroll\\CourseEnroll.csproj|e:\\job practise\\mvc\\courseenroll\\courseenroll\\models\\vm\\traineervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F1476FF-A748-4420-9228-1F44D7395A47}|CourseEnroll\\CourseEnroll.csproj|solutionrelative:courseenroll\\models\\vm\\traineervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1476FF-A748-4420-9228-1F44D7395A47}|CourseEnroll\\CourseEnroll.csproj|e:\\job practise\\mvc\\courseenroll\\courseenroll\\models\\traineer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F1476FF-A748-4420-9228-1F44D7395A47}|CourseEnroll\\CourseEnroll.csproj|solutionrelative:courseenroll\\models\\traineer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1476FF-A748-4420-9228-1F44D7395A47}|CourseEnroll\\CourseEnroll.csproj|e:\\job practise\\mvc\\courseenroll\\courseenroll\\models\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F1476FF-A748-4420-9228-1F44D7395A47}|CourseEnroll\\CourseEnroll.csproj|solutionrelative:courseenroll\\models\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1476FF-A748-4420-9228-1F44D7395A47}|CourseEnroll\\CourseEnroll.csproj|e:\\job practise\\mvc\\courseenroll\\courseenroll\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F1476FF-A748-4420-9228-1F44D7395A47}|CourseEnroll\\CourseEnroll.csproj|solutionrelative:courseenroll\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1476FF-A748-4420-9228-1F44D7395A47}|CourseEnroll\\CourseEnroll.csproj|e:\\job practise\\mvc\\courseenroll\\courseenroll\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F1476FF-A748-4420-9228-1F44D7395A47}|CourseEnroll\\CourseEnroll.csproj|solutionrelative:courseenroll\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1476FF-A748-4420-9228-1F44D7395A47}|CourseEnroll\\CourseEnroll.csproj|e:\\job practise\\mvc\\courseenroll\\courseenroll\\views\\traineer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F1476FF-A748-4420-9228-1F44D7395A47}|CourseEnroll\\CourseEnroll.csproj|solutionrelative:courseenroll\\views\\traineer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1476FF-A748-4420-9228-1F44D7395A47}|CourseEnroll\\CourseEnroll.csproj|E:\\Job Practise\\MVC\\CourseEnroll\\courseenroll\\views\\traineer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F1476FF-A748-4420-9228-1F44D7395A47}|CourseEnroll\\CourseEnroll.csproj|solutionrelative:courseenroll\\views\\traineer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1476FF-A748-4420-9228-1F44D7395A47}|CourseEnroll\\CourseEnroll.csproj|E:\\Job Practise\\MVC\\CourseEnroll\\courseenroll\\views\\traineer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F1476FF-A748-4420-9228-1F44D7395A47}|CourseEnroll\\CourseEnroll.csproj|solutionrelative:courseenroll\\views\\traineer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1476FF-A748-4420-9228-1F44D7395A47}|CourseEnroll\\CourseEnroll.csproj|E:\\Job Practise\\MVC\\CourseEnroll\\courseenroll\\views\\traineer\\addcourse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F1476FF-A748-4420-9228-1F44D7395A47}|CourseEnroll\\CourseEnroll.csproj|solutionrelative:courseenroll\\views\\traineer\\addcourse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Job Practise\\MVC\\CourseEnroll\\CourseEnroll\\Views\\Traineer\\Index.cshtml",
+              "RelativeDocumentMoniker": "CourseEnroll\\Views\\Traineer\\Index.cshtml",
+              "ToolTip": "E:\\Job Practise\\MVC\\CourseEnroll\\CourseEnroll\\Views\\Traineer\\Index.cshtml",
+              "RelativeToolTip": "CourseEnroll\\Views\\Traineer\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADQAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T14:21:34.304Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TraineerController.cs",
+              "DocumentMoniker": "E:\\Job Practise\\MVC\\CourseEnroll\\CourseEnroll\\Controllers\\TraineerController.cs",
+              "RelativeDocumentMoniker": "CourseEnroll\\Controllers\\TraineerController.cs",
+              "ToolTip": "E:\\Job Practise\\MVC\\CourseEnroll\\CourseEnroll\\Controllers\\TraineerController.cs",
+              "RelativeToolTip": "CourseEnroll\\Controllers\\TraineerController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAowEoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T14:14:35.657Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\Job Practise\\MVC\\CourseEnroll\\CourseEnroll\\Views\\Traineer\\Create.cshtml",
+              "RelativeDocumentMoniker": "CourseEnroll\\Views\\Traineer\\Create.cshtml",
+              "ToolTip": "E:\\Job Practise\\MVC\\CourseEnroll\\CourseEnroll\\Views\\Traineer\\Create.cshtml",
+              "RelativeToolTip": "CourseEnroll\\Views\\Traineer\\Create.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAADIAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T14:39:53.073Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Model1.cs",
+              "DocumentMoniker": "E:\\Job Practise\\MVC\\CourseEnroll\\CourseEnroll\\Models\\Model1.cs",
+              "RelativeDocumentMoniker": "CourseEnroll\\Models\\Model1.cs",
+              "ToolTip": "E:\\Job Practise\\MVC\\CourseEnroll\\CourseEnroll\\Models\\Model1.cs",
+              "RelativeToolTip": "CourseEnroll\\Models\\Model1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T18:15:47.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "E:\\Job Practise\\MVC\\CourseEnroll\\CourseEnroll\\Models\\Enrollment.cs",
+              "RelativeDocumentMoniker": "CourseEnroll\\Models\\Enrollment.cs",
+              "ToolTip": "E:\\Job Practise\\MVC\\CourseEnroll\\CourseEnroll\\Models\\Enrollment.cs",
+              "RelativeToolTip": "CourseEnroll\\Models\\Enrollment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T18:15:38.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Course.cs",
+              "DocumentMoniker": "E:\\Job Practise\\MVC\\CourseEnroll\\CourseEnroll\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "CourseEnroll\\Models\\Course.cs",
+              "ToolTip": "E:\\Job Practise\\MVC\\CourseEnroll\\CourseEnroll\\Models\\Course.cs",
+              "RelativeToolTip": "CourseEnroll\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T18:15:35.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TraineerVM.cs",
+              "DocumentMoniker": "E:\\Job Practise\\MVC\\CourseEnroll\\CourseEnroll\\Models\\VM\\TraineerVM.cs",
+              "RelativeDocumentMoniker": "CourseEnroll\\Models\\VM\\TraineerVM.cs",
+              "ToolTip": "E:\\Job Practise\\MVC\\CourseEnroll\\CourseEnroll\\Models\\VM\\TraineerVM.cs",
+              "RelativeToolTip": "CourseEnroll\\Models\\VM\\TraineerVM.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T17:18:19.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Traineer.cs",
+              "DocumentMoniker": "E:\\Job Practise\\MVC\\CourseEnroll\\CourseEnroll\\Models\\Traineer.cs",
+              "RelativeDocumentMoniker": "CourseEnroll\\Models\\Traineer.cs",
+              "ToolTip": "E:\\Job Practise\\MVC\\CourseEnroll\\CourseEnroll\\Models\\Traineer.cs",
+              "RelativeToolTip": "CourseEnroll\\Models\\Traineer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T17:18:13.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "addCourse.cshtml",
+              "DocumentMoniker": "E:\\Job Practise\\MVC\\CourseEnroll\\CourseEnroll\\Views\\Traineer\\addCourse.cshtml",
+              "RelativeDocumentMoniker": "CourseEnroll\\Views\\Traineer\\addCourse.cshtml",
+              "ToolTip": "E:\\Job Practise\\MVC\\CourseEnroll\\CourseEnroll\\Views\\Traineer\\addCourse.cshtml",
+              "RelativeToolTip": "CourseEnroll\\Views\\Traineer\\addCourse.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T13:08:00.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\Job Practise\\MVC\\CourseEnroll\\CourseEnroll\\Views\\Traineer\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CourseEnroll\\Views\\Traineer\\Edit.cshtml",
+              "ToolTip": "E:\\Job Practise\\MVC\\CourseEnroll\\CourseEnroll\\Views\\Traineer\\Edit.cshtml",
+              "RelativeToolTip": "CourseEnroll\\Views\\Traineer\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T03:23:39.322Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

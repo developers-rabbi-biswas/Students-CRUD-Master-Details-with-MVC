@@ -1,0 +1,65 @@
+﻿@model IEnumerable<CourseEnroll.Models.Traineer>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Traineer Information</h2>
+<section>
+    <div>
+        <a href="@Url.Action("Create","Traineer")" , id="btnCreate" class="btn btn-primary">Add Traineer</a>
+    </div>
+    <table class="table text-center" border="1">
+        <thead>
+            <tr>
+                <th>@Html.DisplayNameFor(x => x.TraineeId)</th>
+                <th>@Html.DisplayNameFor(x => x.TraineeName)</th>
+                <th>@Html.DisplayNameFor(x => x.Age)</th>
+                <th>@Html.DisplayNameFor(x => x.DOB)</th>
+                <th>@Html.DisplayNameFor(x => x.MorningShift)</th>
+                <th>@Html.DisplayNameFor(x => x.Picture)</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var t in Model)
+            {
+                <tr>
+                    <td>@Html.DisplayFor(x => t.TraineeId)</td>
+                    <td>@Html.DisplayFor(x => t.TraineeName)</td>
+                    <td>@Html.DisplayFor(x => t.Age)</td>
+                    <td>@Html.DisplayFor(x => t.DOB)</td>
+                    <td>@Html.DisplayFor(x => t.MorningShift)</td>
+                    <td>
+                        <img src="@t.Picture" width="90" height="90" style="border-radius:50%" />
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="6">
+                        <table class="table text-center table-active">
+                            <thead>
+                                <tr>
+                                    <th>@Html.Label("Course Id")</th>
+                                    <th>@Html.Label("Course Name")</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var c in t.Enrollments)
+                                {
+                                    <tr>
+                                        <td>@Html.DisplayFor(x => c.Course.CourseId)</td>
+                                        <td>@Html.DisplayFor(x => c.Course.CourseName)</td>
+                                    </tr>
+                                    <tr>
+                                        <td colspan="12">
+                                            <a href="@Url.Action("Edit", "Traineer", new {id = t.TraineeId})" id="Edit" class="btn btn-info">Edit</a>
+                                            <a href="@Url.Action("Delete", "Traineer", new {id = t.TraineeId})" id="btnDelete" class="btn btn-danger">Delete</a>
+                                        </td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</section>

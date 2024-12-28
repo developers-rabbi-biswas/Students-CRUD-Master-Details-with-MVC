@@ -1,0 +1,52 @@
+﻿@model CourseEnroll.Models.VM.TraineerVM
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Add New Traineer</h2>
+@using (Html.BeginForm("Create", "Traineer", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    @Html.AntiForgeryToken();
+    <div class="form-group">
+        @Html.LabelFor(x => x.TraineeName)
+        <div>
+            @Html.TextBoxFor(x => x.TraineeName, new {@class = "form-control"})
+        </div>
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(x => x.Age)
+        <div>
+            @Html.TextBoxFor(x => x.Age, new { @type = "number", @class = "form-control" })
+        </div>
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(x => x.DOB)
+        <div>
+            @Html.TextBoxFor(x => x.DOB, new { @type = "date", @class = "form-control" })
+        </div>
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(x => x.MorningShift)
+        @Html.TextBoxFor(x => x.MorningShift, new{@type = "checkbox" })
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(x => x.Picture)
+        <div>
+            @Html.TextBoxFor(x => x.PictureFile, new {@type="file"})
+        </div>
+    </div>
+    <div class="form-group">
+        <h2>Add Course</h2>
+        <a href="#" id="btnPlus" class="btn btn-secondary">Add More</a>
+        <br />
+    </div>
+    <div id="container">
+        @Html.Action("AddCourse","Traineer")
+    </div>
+    <div class="form-group">
+        <input type="submit"  value="Save" class="btn btn-success">
+    </div>
+}
+<br />
+<a href="@Url.Action("Index", "Traineer")" class="btn btn-primary">Back To List</a>
+
